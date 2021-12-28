@@ -1,7 +1,0 @@
-title: Cnidofest
-
-remote_theme: "matthewnicotra/hydejack-matthewnicotra" 
-
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
