@@ -83,4 +83,59 @@ I have already installed Jekyll on my computer.
 
 ### Set up the theme
 
-The default theme for Jekyll sites is `minima`. But for this site, I am going to use the theme [Hydejack](https://www.hydejack.com). I want to use a static version of the 
+The default theme for Jekyll sites is `minima`. But for this site, I am going to use the theme [Hydejack](https://www.hydejack.com). I want to use a static version of the hydejack theme (so that I can control when the theme updates, rather than having the theme change without me knowing). Therefore, I did the following:
+
+1. Fork the `hydecorp/hydejack` repo, which I renamed `matthewnicotra/hydejack-matthewnicotra` (to make clear I am using the local version)
+
+2. Edit the `_config.yml` file as follows. The plugin `jekyll-include-cache` is required by the Hydejack theme.
+
+    ```yml
+    # Build settings
+    remote_theme: matthewnicotra/hydejack-matthewnicotra
+    plugins:
+    - jekyll-feed
+    - jekyll-include-cache
+    ```
+
+
+3. Edit the `Gemfile` so it looks like this:
+
+    ```ruby
+    source "https://rubygems.org"
+
+    gem "github-pages", group: :jekyll_plugins
+
+    # If you have any plugins, put them here!
+    group :jekyll_plugins do
+    gem "jekyll-feed"
+    gem "jekyll-include-cache"
+    end
+
+    # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
+    # and associated library.
+    platforms :mingw, :x64_mingw, :mswin, :jruby do
+    gem "tzinfo", "~> 1.2"
+    gem "tzinfo-data"
+    end
+
+    # Performance-booster for watching directories on Windows
+    gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+
+
+    gem "webrick", "~> 1.7"
+    ```
+
+4. Delete the `Gemfile.lock` file. This is necessary because this file freezes all gems at versions that are incompatible. 
+
+5. Update bundler, which creates a new `Gemfile.lock`.
+
+    ```bash
+    bundle update
+    ```
+
+6. Now start the local server
+
+    ```bash
+    bundle exec jekyll serve
+    ```
+    
