@@ -21,9 +21,7 @@
 title: Cnidofest
 email: cnidofest@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Cnidarian Model Systems Meeting (Cnidofest) connects scientists interested in 
-  developing and using cnidarians as model systems to study molecular and cellular 
-  biology, developmental biology, neurobiology, and comparative genomics.
+  The Cnidarian Model Systems Meeting
 baseurl: "/cnidofest-website" # the subpath of your site, e.g. /blog
 url: "http://matthewnicotra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cnidofest

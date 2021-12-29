@@ -10,7 +10,7 @@ We want to transition our website from a WYSIWYG hosting service to [GitHub Page
 
 To set up the site I first learned about GitHub pages and Jekyll from [this excellent set of youtube videos by Bill Raymond](https://www.youtube.com/watch?v=EvYs1idcGnM&list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq). 
 
-Then, I did the following.
+Then I created the initial site. 
 
 ### Set up repo on GitHub
 
@@ -22,11 +22,11 @@ Then, I did the following.
 
 4. I also edited the "About" box (circled at top of screenshot below) to include the path to the site for ease of access later on.
 
-![Screenshot of the repo page ](path-to-image.png)
+![Screenshot of the repo page ](/cnidofest-website/assets/repo-after-first-build.png)
 
 5. After a few minutes, an "Environment" appeared at the bottom of the **\<code\>** tab for the repo, which meant that GitHub had build the page (using Jekyll). Right now, Jekyll just uses the README.md in place of an index.html page, so the site is pretty bland:
 
-![Screenshot of the site](path-to-image2.png)
+![Screenshot of the site](/cnidofest-website/assets/images/site-from-readme.png)
 
 ### Clone repo and set up site with Jekyll
 
