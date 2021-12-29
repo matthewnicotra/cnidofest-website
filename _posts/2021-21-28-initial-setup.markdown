@@ -22,11 +22,11 @@ Then I created the initial site.
 
 4. I also edited the "About" box (circled at top of screenshot below) to include the path to the site for ease of access later on.
 
-![Screenshot of the repo page ](/cnidofest-website/assets/repo-after-first-build.png)
+![Screenshot of the repo page ](/assets/repo-after-first-build.png)
 
 5. After a few minutes, an "Environment" appeared at the bottom of the **\<code\>** tab for the repo, which meant that GitHub had build the page (using Jekyll). Right now, Jekyll just uses the README.md in place of an index.html page, so the site is pretty bland:
 
-![Screenshot of the site](/cnidofest-website/assets/images/site-from-readme.png)
+![Screenshot of the site](/assets/images/site-from-readme.png)
 
 ### Clone repo and set up site with Jekyll
 
