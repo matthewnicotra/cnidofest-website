@@ -2,8 +2,8 @@
 layout: post
 title:  "Initial Setup"
 date:   2021-12-28 15:40:21 -0500
-categories: website 
 author: "Matt Nicotra"
+# permalink: /2021-21-28-initial-setup/
 ---
 
 We want to transition our website from a WYSIWYG hosting service to [GitHub Pages](https://pages.github.com/) because it will be cheaper (free). We also hope that it will enable us to share web maintenance duties more easily.
@@ -22,7 +22,7 @@ Then I created the initial site.
 
 4. I also edited the "About" box (circled at top of screenshot below) to include the path to the site for ease of access later on.
 
-    ![Screenshot of the repo page ](/cnidofest-website/assets/repo-after-first-build.png)
+    ![Screenshot of the repo page ](/cnidofest-website/assets/images/repo-after-first-build.png)
 
 5. After a few minutes, an "Environment" appeared at the bottom of the **\<code\>** tab for the repo, which meant that GitHub had build the page (using Jekyll). Right now, Jekyll just uses the README.md in place of an index.html page, so the site is pretty bland:
 
