@@ -22,11 +22,11 @@ Then I created the initial site.
 
 4. I also edited the "About" box (circled at top of screenshot below) to include the path to the site for ease of access later on.
 
-![Screenshot of the repo page ](/cnidofest-website/assets/repo-after-first-build.png)
+    ![Screenshot of the repo page ](/cnidofest-website/assets/repo-after-first-build.png)
 
 5. After a few minutes, an "Environment" appeared at the bottom of the **\<code\>** tab for the repo, which meant that GitHub had build the page (using Jekyll). Right now, Jekyll just uses the README.md in place of an index.html page, so the site is pretty bland:
 
-![Screenshot of the site](/cnidofest-website/assets/images/site-from-readme.png)
+    ![Screenshot of the site](/cnidofest-website/assets/images/site-from-readme.png)
 
 ### Clone repo and set up site with Jekyll
 
@@ -65,9 +65,7 @@ I have already installed Jekyll on my computer.
     title: Cnidofest
     email: cnidofest@gmail.com
     description: >- # this means to ignore newlines until "baseurl:"
-        The Cnidarian Model Systems Meeting (Cnidofest) connects scientists interested in 
-        developing and using cnidarians as model systems to study molecular and cellular 
-        biology, developmental biology, neurobiology, and comparative genomics.
+        The Cnidarian Model Systems Meeting 
     baseurl: "/cnidofest-website" # the subpath of your site, e.g. /blog
     url: "http://matthewnicotra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
     twitter_username: cnidofest
