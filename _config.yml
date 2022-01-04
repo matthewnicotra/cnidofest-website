@@ -43,10 +43,23 @@ menu:
     url: /zoom-seminars/
   - title: "Past Meetings"
     url: /past-meetings/
-  - title: Blog
-    url: /blog/
-  - title: About
-    url: /about/
+  #- title: Blog
+  #  url: /blog/
+  #- title: About
+  #  url: /about/
+
+
+# This text will appear in a `<small>` tag in the footer of every page.
+copyright:             © 2021. All rights reserved.
+
+# This will appear in the sidebar
+#logo: /assets/images/whatever.jpg
+
+favicon: /fdfavicon.ico
+
+
+
+
 
 
 # Exclude from processing.

@@ -22,7 +22,16 @@ author: "Matt Nicotra"
 4. Zoom Seminars
     - create page Zoom seminars
 
-### add to menu
+### add pages to menu
 
 In _config.yml, add the menu info
 
+
+### add permalinks
+ (because this makes the breadcrumbs make sense)
+
+
+### add content
+
+#### Past meetings
+    
