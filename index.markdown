@@ -9,6 +9,13 @@ cover: true
 
 The Cnidarian Model Systems Meeting (Cnidofest) is a biennial meeting of scientists interested in developing and using cnidarians as model systems to study molecular and cellular biology, developmental biology, neurobiology, and comparative genomics.
 
+
+
+
+
+<!---
+stuff below is to create a div that centers the twitter box
+--->
 <style>
 .center {
     margin: auto;
