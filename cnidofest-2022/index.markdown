@@ -4,13 +4,15 @@ layout: page
 ---
 <img src="/cnidofest-website/assets/images/ucdavis-arboreum-1.jpg" alt="UC Davis Arboretum" width=600/>
 
-## September 7-10, 2022  
-### University of California Davis <br> Davis, California  
+**September 7-10, 2022**  
+**University of California Davis**
 
+- boiler
+{:toc}
 
 ## Scope
 
-We welcome abstracts from any scientist using a cnidarian as a model organism to understand the molecular basis of fundamental biological processes. For Cnidofest 2022, there will be an emphasis on sharing tools that facilitate this kind of research in cnidarians. Sessions will be organized according to the following themes: 
+We welcome abstracts from any scientist using a cnidarian as a model organism to understand the molecular basis of fundamental biological processes. **We strongly encourage trainees to submit abstracts for oral presentations**. For Cnidofest 2022, there will be an emphasis on sharing tools that facilitate this kind of research in cnidarians. Sessions will be organized according to the following themes: 
 
 * Neurobiology
 * Development
@@ -58,6 +60,11 @@ The **_anticipated_** registration fees will be $550.00 for PIs and $275 for tra
 ## Lodging
 
 Information coming soon.
+
+
+## Travel Awards
+
+We plan to applying for NSF support for Cnidofest 2022. If awarded, we plan to use the funds to issue travel awards to trainees who have registered for the conference.  
 
 
 ## Covid Policy
