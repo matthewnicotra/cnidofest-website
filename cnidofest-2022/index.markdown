@@ -7,7 +7,10 @@ layout: page
 **September 7-10, 2022**  
 **University of California Davis**
 
-- boiler
+> Want more info about Cnidofest 2022? [Fill out our survey!](https://forms.gle/WEn1prhe7mNxty989)
+{:.lead}
+
+- table of contents
 {:toc}
 
 ## Scope
