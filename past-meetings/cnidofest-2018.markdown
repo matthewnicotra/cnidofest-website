@@ -11,5 +11,5 @@ University of Florida
 St. Augustine, FL
 September 6-9, 2018  
 
-[**Program**](/assets/pdfs/Program_Book_2018_final3_webversion2.pdf.pdf) | 
+[**Program**](/assets/pdfs/Program_Book_2018_final3_webversion2.pdf) | 
 [**Meeting Report**](https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-019-0134-5)
