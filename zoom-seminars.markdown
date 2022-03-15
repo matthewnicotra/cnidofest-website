@@ -10,36 +10,10 @@ Seminars will occur at 12 pm US Eastern Daylight Time (EDT) unless otherwise not
 [Click here convert this to your local time.](https://www.thetimezoneconverter.com/?t=12%20pm&tz=Eastern%20Daylight%20Time%20(EDT)&)
 
 
-## January 19, 2022 12pm EST
-
-Topic: Telomerase in Nematostella regeneration and longevity  
-Title: "TBD"  
-**Dr. João E. Carvalho**  
-_University Côte d'Azur ( Röttinger Lab)_  
-
-Topic: Hydra neurobiology  
-Title: "TBD"  
-**Abby Primack, PhD candidate**  
-_University of California, Davis (Juliano Lab)_  
-
-
-## February 16, 2022 12pm EST
-
-Topic: Nutritional regulation of bodysize in Nematostella  
-Title: "TBD"  
-**Dr. Kathrin Garschall**  
-_Sars Centre (UiB, Bergen) (Steinmetz lab)_  
-
-Topic: Spatial transcriptomics and patterning in Nematostella  
-Title: "TBD"  
-**Dr. Shuonan He**  
-Stowers Institute for Medical Research (Gibson Lab)  
-
 
 ## March 16, 2022 12pm EST
 
-Topic: Apical organ studies  
-Title: "TBD"  
+Title: "The cellular architecture of the larval sensory organ in the anthozoan cnidarian _Nematostella vectensis_"  
 **Eleanor Gilbert, PhD candidate**  
 _Marine Biological Association, UK (Modepalli Lab)_  
 
