@@ -25,10 +25,10 @@ _Florida Southern college (Macrander Lab)_
 
 ## April 20, 2022 12pm EST
 
-Topic: Hydra Neurobiology  
-Title: "TBD"  
-**Dr. Christophe Dupre**  
-_Harvard University (Engert/Lichtman lab)_  
+Topic: Nf-kB in _Nematostella_
+Title: "TBD"
+**Joshua Aguirre**
+_Boston University (Gilmore Lab)_
 
 Topic: Allorecognition signaling  
 Title: "TBD"  
