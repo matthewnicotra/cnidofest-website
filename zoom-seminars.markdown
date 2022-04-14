@@ -25,9 +25,9 @@ _Florida Southern college (Macrander Lab)_
 
 ## April 20, 2022 12pm EST
 
-Topic: Nf-kB in _Nematostella_
-Title: "TBD"
-**Joshua Aguirre**
+Topic: Nf-kB in _Nematostella_  
+Title: "TBD"  
+**Joshua Aguirre**  
 _Boston University (Gilmore Lab)_
 
 Topic: Allorecognition signaling  
