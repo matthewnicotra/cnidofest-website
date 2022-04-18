@@ -11,26 +11,12 @@ Seminars will occur at 12 pm US Eastern Daylight Time (EDT) unless otherwise not
 
 
 
-## March 16, 2022 12pm EST
-
-Title: "The cellular architecture of the larval sensory organ in the anthozoan cnidarian _Nematostella vectensis_"  
-**Eleanor Gilbert, PhD candidate**  
-_Marine Biological Association, UK (Modepalli Lab)_  
-
-Topic: Cnidarian stress response to sunscreens  
-Title: "How safe are 'reef-safe' sunscreens?"  
-**Abby Tarleton, Undergraduate**  
-_Florida Southern college (Macrander Lab)_  
-
-
 ## April 20, 2022 12pm EST
 
-Topic: Nf-kB in _Nematostella_  
-Title: "TBD"  
+"A molecular axis between nutritional and immune status in the cnidarian model _Nematostella vectensis_"    
 **Joshua Aguirre**  
 _Boston University (Gilmore Lab)_
 
-Topic: Allorecognition signaling  
-Title: "TBD"  
+Investigating the roles of SFKs, SYK-like kinases, and ITAMs in the _Hydractinia_ allorecognition response  
 **Manuel Michaca, PhD candidate**  
 _University of Pittsburgh (Nicotra Lab)_  
