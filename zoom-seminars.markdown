@@ -11,12 +11,6 @@ Seminars will occur at 12 pm US Eastern Daylight Time (EDT) unless otherwise not
 
 
 
-## April 20, 2022 12pm EST
+## We're taking a pause
 
-"A molecular axis between nutritional and immune status in the cnidarian model _Nematostella vectensis_"    
-**Joshua Aguirre**  
-_Boston University (Gilmore Lab)_
-
-Investigating the roles of SFKs, SYK-like kinases, and ITAMs in the _Hydractinia_ allorecognition response  
-**Manuel Michaca, PhD candidate**  
-_University of Pittsburgh (Nicotra Lab)_  
+The results of our recent survey are in, and our community overwhelmingly voted to pause the Cnidofest Zoom Seminars until after Cnidofest 2022. We're looking forward to seeing you in person in September, and then back on Zoom afterwards.
