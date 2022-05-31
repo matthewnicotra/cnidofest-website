@@ -122,5 +122,4 @@ Vaccination or proof of a recent negative COVID-19 test is required for all indo
 2. UC Davis Health employees can display their ID bearing an orange sticker confirming vaccination status or show their Daily Symptom Survey output with proof of a negative COVID-19 test result from the last 72-hours.
 3. Non-affiliate attendees can show:
 - Their CDC Vaccine Card (phone image acceptable) or digital vaccine record from the State of California OR 
-- A negative COVID-19 test result from the last 72-hours. (must be a lab/PCR test; home tests/antigen tests are not valid; if offered and proctored by the event, at-door antigen tests are acceptable) OR
-- (For international attendees) - Another proof of vaccination that is valid in the country in which you were vaccinated or from which you are traveling.  
+- A negative COVID-19 test result from the last 72-hours. (must be a lab/PCR test; home tests/antigen tests are not valid; if offered and proctored by the event, at-door antigen tests are acceptable)
