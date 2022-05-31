@@ -123,3 +123,6 @@ Vaccination or proof of a recent negative COVID-19 test is required for all indo
 3. Non-affiliate attendees can show:
 - Their CDC Vaccine Card (phone image acceptable) or digital vaccine record from the State of California OR 
 - A negative COVID-19 test result from the last 72-hours. (must be a lab/PCR test; home tests/antigen tests are not valid; if offered and proctored by the event, at-door antigen tests are acceptable)
+
+_Update: May 31, 2022 - For International Attendees_
+As some of you pointed out, these guidelines to not make accomodations for international attendees. We are currently waiting for UC Davis to inform us of what type of vaccination proof will be required/acceptable for international attendees. 
