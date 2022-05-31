@@ -58,7 +58,7 @@ Registration will open on **June 7, 2022**
 
 We are now accepting abstracts for Cnidofest 2022!
 
-**Deadline: August 1, 2022**  
+**Deadline: July 15, 2022**  
       
 **Formatting​**
 
