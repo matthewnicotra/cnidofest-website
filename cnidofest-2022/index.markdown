@@ -50,7 +50,7 @@ We welcome abstracts from any scientist using a cnidarian as a model organism to
 
 ## Registration
 
-Registration will open on **June 7, 2022**
+Registration will open on **June 7, 2022** and close **August 15, 2022**.  
 
 
 
