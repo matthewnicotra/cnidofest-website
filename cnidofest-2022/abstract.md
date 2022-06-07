@@ -27,10 +27,9 @@ permalink: /cnidofest-2022/abstract
 
 ### Submitting your abstract is a two-step process
 
-1. Fill out the Google Form with your information by following the link below
+1. Fill out **<a href="https://forms.gle/bKQqrv9geZTfQRZ7A" target="_blank">this Google Form</a>** with your information
 2. Once you submit the Google Form you will receive a link to upload your abstract file to our dropbox folder.
 
-**<a href="https://forms.gle/bKQqrv9geZTfQRZ7A" target="_blank">Submit (links to Google Form)</a>**  
   
 
 If you have any trouble, please email [Matt Nicotra](mailto:matthew.nicotra@pitt.edu).
