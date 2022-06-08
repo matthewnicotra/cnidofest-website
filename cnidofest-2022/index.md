@@ -16,6 +16,8 @@ layout: page
 
 **[We are now accepting abstracts](/cnidofest-2022/abstract)**
 
+**[Keynote and Technology Speakers](/cnidofest-2022/confirmed-speakers)**
+
 **[COVID-19 Policies](/cnidofest-2022/covid)**
 
 
