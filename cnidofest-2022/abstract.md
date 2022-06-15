@@ -27,7 +27,7 @@ permalink: /cnidofest-2022/abstract
 
 ### Submitting your abstract is a two-step process
 
-1. Fill out **<a href="https://forms.gle/bKQqrv9geZTfQRZ7A" target="_blank">this Google Form</a>** with your information
+1. Fill out **<a href="https://forms.gle/bKQqrv9geZTfQRZ7A" target="_blank">this Google Form</a>** with your information. (Note this is separate from the [registration](/cnidofest-2022/registration) form.)
 2. Once you submit the Google Form you will receive a link to upload your abstract file to our dropbox folder.
 
   
