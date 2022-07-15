@@ -6,7 +6,7 @@ permalink: /cnidofest-2022/abstract
 
 ## We are now accepting abstracts for Cnidofest 2022! 
 
-### Abstract deadline is <span style= "color:red">July 15, 2022</span>
+### Abstract deadline has been extended to <span style= "color:red">July 18, 2022</span>
 
    
 ### Formatting

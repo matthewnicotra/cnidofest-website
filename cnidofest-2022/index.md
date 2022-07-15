@@ -37,6 +37,17 @@ We welcome abstracts from any scientist using a cnidarian as a model organism to
 * Physiology
 
 
+## Instructions for Presenters
+
+### Oral Presentations
+Please prepare a 15 minute presentation, which will be followed by 5 minutes for questions.
+
+### Poster Presentations
+Your poster will be mounted on a surface that is 4 feet high x 4 feet wide (121 cm x 121 cm). Please prepare a poster that will fit these dimensions. 
+
+
+
+
 ## Tentative Schedule
 
 | Time     | Wednesday <br> September 7| Thursday<br> September 8| Friday<br> September 9| Saturday<br>September 10|
@@ -52,11 +63,11 @@ We welcome abstracts from any scientist using a cnidarian as a model organism to
 | 4:45 PM  | ↓                     | **Lightning Talks** | **Lightning Talks** | Free Time |
 | 5:15 PM  | ↓                     | **Poster Session 1**  | **Poster Session 2**  | 🍹  Cocktails          |
 | 6:00 PM  |  Reception           |  ↓                     | ↓                     | 🍽 Banquet Dinner        |
-| 7:30 PM  |  Welcome Remarks     | 🍽 Dinner                | 🍽 Dinner                | 🏆 Awards Ceremony       |
-| 7:45 PM  | **Session 1** | ↓                      |         ↓              |                       |
-| 8:00 PM  | ↓                          |  ↓                     | ↓                      | 🕺 Music and Dancing 💃|
+| 7:30 PM  |  Welcome Remarks     | 🍽 Dinner                | 🍽 Dinner                | ↓      |
+| 7:45 PM  | **Session 1** | ↓                      |         ↓             | ↓ |
+| 8:00 PM  | ↓                          |  ↓                     | ↓                      | 🏆 Awards Ceremony |
 | 9:00 PM  | End of Day's Events  | End of Day's Events   |End of Day's Events    |   ↓                   |
-|11:59 PM  |                      |                       |                       | End of Conference     |
+|10:00 PM  |                      |                       |                       | End of Conference     |
 
 
 

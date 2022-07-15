@@ -16,6 +16,6 @@ Vaccination or proof of a recent negative COVID-19 test is required for all indo
 
 ## <span style= "color:red">Important information for international attendees</span>
 
-You will be required to show a negative COVID-19 test result or documentation of recovery from COVID-19 before you travel to the United States by air.  
+**Updated July 13, 2022:** You are no longer required show a negative COVID-19 test result or documentation of recovery from COVID-19 before you travel to the United States by air. However, this may change at any time.   
 
 For up-to-date information on US travel restriction, visit <a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/noncitizens-US-air-travel.html" target="_blank">the Centers for Disease Control and Prevention website.</a>
