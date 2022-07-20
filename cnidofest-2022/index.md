@@ -14,14 +14,14 @@ layout: page
 
 **[Registration is open](/cnidofest-2022/registration)**
 
-**[We are now accepting abstracts](/cnidofest-2022/abstract)**
-
 **[Keynote and Technology Speakers](/cnidofest-2022/confirmed-speakers)**
 
 **[COVID-19 Policies](/cnidofest-2022/covid)**
 
 
+## Abstracts
 
+We are no longer accepting abstracts. You may still [register for the meeting](/cnidofest-2022/registration).
 
 ## Meeting Scope
 
