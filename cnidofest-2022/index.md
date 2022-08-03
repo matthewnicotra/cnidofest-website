@@ -40,7 +40,8 @@ We welcome abstracts from any scientist using a cnidarian as a model organism to
 ## Instructions for Presenters
 
 ### Oral Presentations
-Please prepare a 15 minute presentation, which will be followed by 5 minutes for questions.
+Please prepare a 12 minute presentation, which will be followed by 3 minutes for questions.  
+(Note: this information was updated on 3 Aug 2022)
 
 ### Poster Presentations
 Your poster will be mounted on a surface that is 4 feet high x 4 feet wide (121 cm x 121 cm). Please prepare a poster that will fit these dimensions. 
