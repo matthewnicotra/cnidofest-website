@@ -33,9 +33,9 @@ We welcome abstracts from any scientist using a cnidarian as a model organism to
 
 
 
-### Program <span style= "color:red"> (New!)</span>
+### Program and Schedule <span style= "color:red"> (Posted August 5, 2022)</span>
 
-A [draft program](https://docs.google.com/document/d/1gngeu74woDXpndSHfcaEB1tGjvxJ9UdzLkm6Cr_HNUc/edit?usp=sharing){:target="_blank"} is now available. 
+A [draft program and schedule](https://docs.google.com/document/d/1gngeu74woDXpndSHfcaEB1tGjvxJ9UdzLkm6Cr_HNUc/edit?usp=sharing){:target="_blank"} is now available. 
 
 ### [Keynote and Technology Speakers](/cnidofest-2022/confirmed-speakers)
 
@@ -47,27 +47,6 @@ Please prepare a 12 minute presentation, which will be followed by 3 minutes for
 
 #### Poster Presentations
 Your poster will be mounted on a surface that is 4 feet high x 4 feet wide (121 cm x 121 cm). Please prepare a poster that will fit these dimensions. 
-
-### Tentative Schedule
-
-| Time     | Wednesday <br> September 7| Thursday<br> September 8| Friday<br> September 9| Saturday<br>September 10|
-|----------|----------------------|-----------------------|-----------------------|-----------------------|
-| 9:00 AM  |                      | **Session 2**    | **Session 6**  | **Keynote** 🔑♫ |
-| 10:15 AM |                      | ☕️ Coffee Break        | ☕️ Coffee Break        | ☕️ Coffee Break        |
-| 10:45 AM |                      | **Session 3**    | **Session 7**     | **Session 10**     |
-| 12:00 PM |                      | 🥪 Lunch              | 🥪 Lunch               | 🥪 Lunch              |
-| 1:15 PM  |                      | **Session 4**  | **Session 8**   | **Session 11**   |
-| 2:30 PM  |                      | ☕️ Coffee Break        | ☕️ Coffee Break        | ☕️ Coffee Break        |
-| 3:00 PM  | Registration Opens   | **Session 5**  | **Session 9**   | **Session 12**   |
-| 4:15 PM  | ↓                     | ☕️ Coffee Break        | ☕️ Coffee Break        | 📸 Group Photo           |
-| 4:45 PM  | ↓                     | **Lightning Talks** | **Lightning Talks** | Free Time |
-| 5:15 PM  | ↓                     | **Poster Session 1**  | **Poster Session 2**  | 🍹  Cocktails          |
-| 6:00 PM  |  Reception           |  ↓                     | ↓                     | 🍽 Banquet Dinner        |
-| 7:30 PM  |  Welcome Remarks     | 🍽 Dinner                | 🍽 Dinner                | ↓      |
-| 7:45 PM  | **Session 1** | ↓                      |         ↓             | ↓ |
-| 8:00 PM  | ↓                          |  ↓                     | ↓                      | 🏆 Awards Ceremony |
-| 9:00 PM  | End of Day's Events  | End of Day's Events   |End of Day's Events    |   ↓                   |
-|10:00 PM  |                      |                       |                       | End of Conference     |
 
 
 
