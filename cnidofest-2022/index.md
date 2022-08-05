@@ -98,7 +98,28 @@ You may [register for the meeting](/cnidofest-2022/registration) until **August 
 
 ### Lodging
 
-We have reserved rooms at several hotels close to the UC Davis campus. Further information about these accomodations can be found on the <a href="https://ces-apps.ucdavis.edu/confreg/index.cfm?confid=1201&webid=5869." target="_blank">official registration page</a>.
+> Please note: There are several errors on the "Accommodations" page on the UC Davis registration website.
+
+Our suggestion is to book Hyatt Place using the link below, which will not expire. This hotel is by far the closest to the conference site, but it is also further from the downtown area (i.e. restaurants and bars).
+
+Here are the instructions and the link for Hyatt Place:
+
+1. Click [this link](https://www.hyatt.com/en-US/hotel/california/hyatt-place-uc-davis/smfzu?corp_id=01836) to go to the Hyatt website. Using the link is important because your discount is built into the URL.
+2. Click on the “Book Now” button, enter your arrival and departure dates, and click the “Book Now” button again. Here is where you will see room options for the UC Davis Discount.
+3. Select your room type and proceed with the booking.
+
+Alternatively, directly calling other hotels is more likely to be productive than using the links on the website.
+
+- [Hilton Garden Inn](https://www.hilton.com/en/hotels/smfdagi-hilton-garden-inn-davis-downtown/){:target="_blank"}: (530) 753-3600
+- University Park Inn and Suites: (530) 756-0910  
+- [Aggie Inn](https://www.choicehotels.com/california/davis/ascend-hotels/cad04): (530) 756-0352  
+- [Palm Court](https://www.bestwestern.com/en_US/book/davis/hotel-rooms/best-western-plus-palm-court-hotel/propertyCode.05536.html):  (530) 753-7100   
+
+Finally, please feel free to search for alternative options in the city of Davis. It is a small city, and anything in the downtown area will likely be close enough. For your information, the conference will be held in the Alumni Center, which is [here](https://goo.gl/maps/rx375kAMVeQfyW9y7){:target="_blank"}
+
+It would be difficult for us to answer too many direct questions about booking hotels, but please do email if you have a pressing issue.
+
+
 
 ### Traveling to Davis
 
