@@ -35,7 +35,7 @@ We welcome abstracts from any scientist using a cnidarian as a model organism to
 
 ### Program <span style= "color:red"> (New!)</span>
 
-A [draft program](/assets/pdfs/Cnidofest-2022-Draft-Schedule_v02.pdf){:target="_blank"} is now available. 
+A [draft program](https://docs.google.com/document/d/1gngeu74woDXpndSHfcaEB1tGjvxJ9UdzLkm6Cr_HNUc/edit?usp=sharing){:target="_blank"} is now available. 
 
 ### [Keynote and Technology Speakers](/cnidofest-2022/confirmed-speakers)
 
