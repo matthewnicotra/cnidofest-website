@@ -2,12 +2,17 @@
 title: "Cnidofest 2022"
 layout: page
 ---
-<img src="/assets/images/ucdavis-arboretum-1.jpg" alt="UC Davis Arboretum" width=600/>
+<img src="/assets/images/cnidofest-2022-logo.png" alt="Cnidofest 2022" width=600/>
 
 **September 7-10, 2022**  
 **University of California Davis**  
 
 
+## Useful Links During the Meeting
+
+[Full Program with Abstracts](https://docs.google.com/document/d/1V7y29du7ATEwba0SMjrcopMSTVDNgpGMaRhel5MxmuE/edit?usp=sharing)  
+
+[Twitter **#cnidofest** Mentions](https://twitter.com/hashtag/cnidofest?src=hashtag_click)  
 
 
 
@@ -16,7 +21,7 @@ layout: page
 
 
 
-## About the meeting
+## About Cnidofest
 
 ### Scope
 
@@ -33,9 +38,9 @@ We welcome abstracts from any scientist using a cnidarian as a model organism to
 
 
 
-### Program and Schedule <span style= "color:red"> (Posted August 5, 2022)</span>
+### Program and Schedule <span style= "color:red"> (Posted August 13, 2022)</span>
 
-A [draft program and schedule](https://docs.google.com/document/d/1gngeu74woDXpndSHfcaEB1tGjvxJ9UdzLkm6Cr_HNUc/edit?usp=sharing){:target="_blank"} is now available. 
+The [Full program](https://docs.google.com/document/d/1V7y29du7ATEwba0SMjrcopMSTVDNgpGMaRhel5MxmuE/edit?usp=sharing){:target="_blank"} is now available. 
 
 ### [Keynote and Technology Speakers](/cnidofest-2022/confirmed-speakers)
 
