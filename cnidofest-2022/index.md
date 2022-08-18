@@ -71,7 +71,7 @@ We are no longer accepting abstracts.
 
 ### [Registration](/cnidofest-2022/registration)
 
-You may [register for the meeting](/cnidofest-2022/registration) until **August 15, 2022**.
+Registration is now closed. 
 
 <br>  
 
