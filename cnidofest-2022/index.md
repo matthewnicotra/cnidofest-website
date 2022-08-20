@@ -2,7 +2,10 @@
 title: "Cnidofest 2022"
 layout: page
 ---
+<figure>
 <img src="/assets/images/cnidofest-2022-logo.png" alt="Cnidofest 2022" width=600/>
+<figcaption>Image Copyright 2022 Sydney Wyatt</figcaption>
+</figure>
 
 **September 7-10, 2022**  
 **University of California Davis**  
@@ -14,7 +17,7 @@ layout: page
 
 [Twitter **#cnidofest** Mentions](https://twitter.com/hashtag/cnidofest?src=hashtag_click)  
 
-
+<br>
 
 - table of contents
 {:toc}
@@ -54,24 +57,6 @@ Please prepare a 12 minute presentation, which will be followed by 3 minutes for
 Your poster will be mounted on a surface that is 4 feet high x 4 feet wide (121 cm x 121 cm). Please prepare a poster that will fit these dimensions. 
 
 
-
-<br>  
-
----
-
-
-
-
-
-## Registration and Abstracts
-
-### Abstracts
-
-We are no longer accepting abstracts. 
-
-### [Registration](/cnidofest-2022/registration)
-
-Registration is now closed. 
 
 <br>  
 
@@ -123,5 +108,24 @@ The Sacramento International Airport (SMF) is just over 20 miles (32 km) from UC
 
 The San Francisco International Airport (SFO) is just over 80 miles (120 km) from UC Davis which can take between 1 hour and 45 minutes to 2 hours and 30 minutes, depending on the time of day and traffic. It is advisable to use a map application (like Waze, Google Maps, Apple Maps, etc.) to estimate travel time when deciding upon transportation options. **If you are headed to a location in Sacramento from SFO, the distance is farther so Amtrak, taxi and ride sharing services will be slightly more expensive.** You may also choose to contact SuperShuttle (see abobe) for an airport shuttle option.
 
-### [COVID-19 Policies](/cnidofest-2022/covid)
+### COVID-19 Policies
 
+We are happy to be welcoming an international group of scientists on the UC Davis campus. It is our goal to keep our participants as safe as possible and to hopefully avoid anybody becoming unable to return home due to a Covid-19 outbreak. Therefore, we kindly ask that you adhere to the following rules while at the event:
+
+- Masks will be <u>required</u> at all indoor functions, which includes the oral sessions and poster session. Masks will be provided at the event.
+
+- We have planned meals to enable people to eat and drink outside in the beautiful California sunshine as much as possible. Coffee breaks and breakfast will be served inside, but conference goers will be encouraged to take their food and drinks outdoors. Boxed lunches will be provided so that you may carry them to eat outside. Dinner will be buffet-style, with food tables set up inside but seating outside.  
+
+- As per UC Davis policy, you should be prepared to show proof of vaccination or a negative COVID test when you check-in at the event if we ask for it. We will accept any vaccination proof that is typical for your country of origin. A digital image of the vaccination proof is acceptable. We will have a limited number of antigen tests on hand. If you have any questions about this requirement, please contact Matt (matthew.nicotra@pitt.edu) or Celina (cejuliano@ucdavis.edu). 
+
+Finally, if you will require a negative Covid test to return to your home country, please email Celina (cejuliano@ucdavis.edu). We will arrange transportation and make appointments, if you contact her by September 1.
+
+
+
+
+
+#### <span style= "color:red">Important information for international attendees</span>
+
+**Updated July 13, 2022:** You are no longer required show a negative COVID-19 test result or documentation of recovery from COVID-19 before you travel to the United States by air. However, this may change at any time.   
+
+For up-to-date information on US travel restriction, visit <a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/noncitizens-US-air-travel.html" target="_blank">the Centers for Disease Control and Prevention website.</a>
