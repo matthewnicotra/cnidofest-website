@@ -15,7 +15,7 @@ layout: page
 
 [Full Program with Abstracts](https://docs.google.com/document/d/1V7y29du7ATEwba0SMjrcopMSTVDNgpGMaRhel5MxmuE/edit?usp=sharing)  
 
-[Twitter **#cnidofest** Mentions](https://twitter.com/hashtag/cnidofest?src=hashtag_click)  
+[Twitter **#cnidofest2022** Mentions](https://twitter.com/hashtag/cnidofest2022?src=hashtag_click)  
 
 <br>
 
