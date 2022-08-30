@@ -56,6 +56,14 @@ Please prepare a 12 minute presentation, which will be followed by 3 minutes for
 #### Poster Presentations
 Your poster will be mounted on a surface that is 4 feet high x 4 feet wide (121 cm x 121 cm). Please prepare a poster that will fit these dimensions. 
 
+### Sponsors
+
+<img src="/assets/images/eppendorf.png" alt="Eppendorf Logo" width=300/>
+
+<img src="/assets/images/neb.png" alt="NEB Logo" width=300/>
+
+
+Cnidofest 2022 is sponsored by [New England Biolabs](https://www.neb.com){:target="_blank"} and [Eppendorf](https://www.eppendorf.com/US-en/){:target="_blank"}, who have generously provided funds for the poster and speaker awards[^1]. 
 
 
 <br>  
@@ -129,3 +137,6 @@ Finally, if you will require a negative Covid test to return to your home countr
 **Updated July 13, 2022:** You are no longer required show a negative COVID-19 test result or documentation of recovery from COVID-19 before you travel to the United States by air. However, this may change at any time.   
 
 For up-to-date information on US travel restriction, visit <a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/noncitizens-US-air-travel.html" target="_blank">the Centers for Disease Control and Prevention website.</a>
+
+
+[^1]: Sponsors recieve logo and sponsor recognition in the program and on our website with live link to their website. 
