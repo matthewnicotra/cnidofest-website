@@ -9,7 +9,7 @@ permalink: /cnidofest-2022/program
 > We recommend you eat before arriving to register.  
 > 
 > All dinners take place at the Alumni Center.  
-> All other events occur in the Conference Center.  
+> All other events occur in the Conference Center.   
 
 Wednesday, September 7
 
