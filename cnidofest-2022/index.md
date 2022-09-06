@@ -2,6 +2,19 @@
 title: "Cnidofest 2022"
 layout: page
 ---
+
+
+
+## Useful Links During the Meeting
+
+[Full Program with Abstracts - Google Doc](https://docs.google.com/document/d/1V7y29du7ATEwba0SMjrcopMSTVDNgpGMaRhel5MxmuE/edit?usp=sharing)  
+
+[Full Program with Abstracts - WEB FRIENDLY](/cnidofest-2022/program)
+
+
+[Twitter **#cnidofest2022** Mentions](https://twitter.com/hashtag/cnidofest2022?src=hashtag_click)  
+
+<br>
 <figure>
 <img src="/assets/images/cnidofest-2022-logo.png" alt="Cnidofest 2022" width=600/>
 <figcaption>Image Copyright 2022 Sydney Wyatt</figcaption>
@@ -10,17 +23,10 @@ layout: page
 **September 7-10, 2022**  
 **University of California Davis**  
 
-
-## Useful Links During the Meeting
-
-[Full Program with Abstracts](https://docs.google.com/document/d/1V7y29du7ATEwba0SMjrcopMSTVDNgpGMaRhel5MxmuE/edit?usp=sharing)  
-
-[Twitter **#cnidofest2022** Mentions](https://twitter.com/hashtag/cnidofest2022?src=hashtag_click)  
-
-<br>
-
 - table of contents
 {:toc}
+
+
 
 
 
