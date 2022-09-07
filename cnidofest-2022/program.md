@@ -21,7 +21,7 @@ permalink: /cnidofest-2022/program
 | 7:30 pm    | Welcome                                                      |
 | 7:45 pm    | **Session 1: Genomics**<br>*Session Chair: James Gahan*      |
 |                | Jack Cazet: “New *Hydra* genomes reveal conserved principles of hydrozoan transcriptional regulation” (p. 16)<br/><br/>Sally Chang: “Insights from the draft genome assembly for the hydrozoan *Podocoryna carnea*: Just the tip of the tentacle” (p. 17)<br/><br/>Tetsuo Kon: “Genomic divergence and dynamics of the three stem cell lineages in *Hydra*” (p. 18)<br/><br/>Karly Higgins-Poling: “Assessing evolutionary history of symbiotic Scyphozoa: A case study, *Mastigias papua* in the marine lakes of Palau, and beyond” (p. 19) |
-| 9:00 pm        | Know About Each Other in the Bar<br/>(Downtown Davis on G Street) |
+| 9:00 pm        | 🍻 Know About Each Other in the Bar<br/>(Downtown Davis on G Street) |
 
 
 
@@ -29,49 +29,49 @@ permalink: /cnidofest-2022/program
 
 | Time | Event|
 | ------------------------- | ------------------------------------------------------------ |
-| 8:00 am            | Light Continental Breakfast                                  |
+| 8:00 am            | 🥐 Light Continental Breakfast                                  |
 | 8:45 am           | **Session 2: Evolution & Regeneration**<br/>*Session Chair: David Gold* |
 |                           | Anna Klompen: “Division of (toxic) labor: Venom distribution and utility across distinct polyp types of *Hydractinia symbiolongicarpus*” (p. 21)<br/><br/>Alonso Delgado: “Sea anemone Insulin-like peptides, For all time. Always.” (p. 22)<br/><br/>Áine Varley: “The developmental potential of a single i-cell in *Hydractinia*”	 (p. 23) |
-| 10:00 am          | Coffee Break                                                 |
+| 10:00 am          | ☕️ Coffee Break                                                 |
 | 10:30 pm          | **Session 3: Development I**<br/>*Session Chair: Celina Juliano* |
 |                           | Diego Calderon, Invited Technology Speaker: “The continuum of *Dro-**sophila* embryonic development at single cell resolution”(p. 24)<br/><br/>Layla Al-Shaer: “Population density modulates asexual reproduction & gene expression in *Nematostella vectensis*” (p. 25)<br/><br/>Charisious Tsiairis: The transcription factor Zic4 prevents epithelial transdifferentiation in *Hydra*” (p. 26)|
-| 12:00 pm           | Box Lunch                                                    |
+| 12:00 pm           | 🥪 Box Lunch                                                    |
 | 1:15 pm            | **Session 4: Neurobiology**<br>*Session Chair: Brady Weissbourd* |
 |                           | Abby Primack: “Characterizing neurogenesis pathways in *Hydra vulgaris*” (p. 28) <br/> <br/>Minghe Cheng: “Investigating the role of NvashA during *Nematostella* Neurogenesis” (p. 29)<br/> <br/>Wataru Yamamoto: “Studying neuronal mechanisms of somersaulting in *Hydra vulgaris*” (p. 30)<br/> <br/>Kelly Kim: “Phototaxis is a state-dependent complex behavior in *Hydra* *vulgaris*” (p. 31) |
-| 2:30 pm            | Coffee Break                                                 |
+| 2:30 pm            | ☕️ Coffee Break                                                 |
 | 3:00 pm            | **Session 5: Evo Devo I** <br/>*Session Chair: Paulyn Cartwright* |
 |                           | Gaku Kumano: “Branching morphogenesis of *Cladonema* medusa tentacles” (p. 32)<br/> <br/>Yareli Alvarez: “Inducible organs of aggression in the plumose sea anemone, *Metridium senile*, as a model for the evolution of cell type plasticity” (p. 33)<br/> <br/>Julia Baranyk: “Cnidarian-specific neuropeptide RPamide decelerates the timing of life cycle transition in the sea anemone *Nematostella vectensis*” (p. 34)<br/> <br/>Alison Cole: “A cell-type atlas from a scyphozoan jellyfish *Aurelia* sp. provides insights into cell-type diversity and reveals conserved cell specification mechanisms across the Cnidaria” (p. 35) |
-| 4:15 pm            | coffee Break                                                 |
-| 4:45 pm            | Lightning Talks                                              |
+| 4:15 pm            | ☕️ Coffee Break                                                 |
+| 4:45 pm            | 🌩 Lightning Talks                                              |
 |                           | Zeeshan Banday, <br/>Natascha Bartsch,  <br/>JK Da-Anoy, <br/>Alondra Escobar,  <br/>Iris Juanico,  <br/>Grace Snyder,<br/>Qingru Xu. |
 | 5:30 pm            | **Poster Session 1** |
 |  | 1 - Namrata Ahuja (p. 68) <br/>3 - Zeeshan Banday (p. 70) <br/>5 - Natascha Bartsch (p. 72) <br/>7 - Jun Cai (p. 74) <br/>9 - JK Da-Anoy (p. 76) <br/>11 - Alondra Escobar (p. 78) <br/>13 - Stuart Jaeger (p. 80) <br/>15 - Iris Juanico (p. 82) <br/>17 - Whitney Leach (p. 84) <br/>19 - Jocelyn Malamy (p. 86) <br/>21 - Cody Miner (p. 88) <br/>23 - Clara Nuninger (p. 90) <br/>25 - Kari Price (p. 92) <br/>27 - Grace Snyder (p. 94) <br/>29 - Marina Stoilova (p. 96) <br/>31 - Justin Waletich (p. 98) <br/>33 - Qingru Xu (p. 100) <br/>35 - Mengjin Zhang (p. 102) <br/>37 - Bruno Gideon Bergheim (p. 46) <br/>39 - Sosuke Fujita (p. 64) |
-| 7:30 pm            | Dinner with Cash Bar (Alumni Center)                         |
-| 9:30 pm                   | Know About Each Other in the Bar <br/>(Downtown Davis on G Street) |
+| 7:30 pm            | 🍽 Dinner with Cash Bar (Alumni Center)                         |
+| 9:30 pm                   | 🍻 Know About Each Other in the Bar <br/>(Downtown Davis on G Street) |
 
 ### Friday, September 9
 
 | Time |                                                              Event|
 | ----------------------- | ------------------------------------------------------------ |
-| 8:00 am          | Light Continental Breakfast                                  |
+| 8:00 am          | 🥐 Light Continental Breakfast                                  |
 | 8:45 am         | **Session 6: Physiology I** <br/>*Session Chair: Patrick Steinmetz* |
 |                         | Allyson DeMerlis: “Early-hour molecular responses of wound healing in *Pocillopora damicornis*” (p. 36)<br/> <br/>Samuel Bedgood: “Algal symbiont presence and not photosynthetic contribution affects the development of *Exaiptasia diaphana* asexual offspring” (p. 37)<br/> <br/>Cory Berger: “How does *Nematostella’s* circadian clock behave under conflicting light and temperature cycles?” (p. 38)<br/> <br/>Olivier Cochet-Escartin: “Mechanical characterization of regenerating*Hydra vulgaris* tissue pieces” (p. 39) |
-| 10:00 am        | Coffee Break                                                 |
+| 10:00 am        | ☕️ Coffee Break                                                 |
 | 10:30 pm        | **Session 7: Physiology II** <br/>*Session Chair: Matt Nicotra* |
 |                         | James Letts, Invited Technology Speaker: “New approaches to structural biology using single particle cryoEM” (p. 40)<br/> <br/>Kathrin Garschall: “Nutritional regulation of growth in the sea anemone *Nematostella vectensis*” (p. 41)<br/> <br/>Lys Isma: “Saved by the Cell: Immune cells and Stony Coral Tissue Loss Disease (SCTLD)” (p. 42)<br/> <br/>Yehu Moran: “The cnidarian antiviral immune system reflects ancestral complexity” (p. 43) |
 | 12:00 pm         | Box Lunch                                                    |
 | 1:15 pm          | **Session 8: Cell Biology I** <br/>*Session Chair: Leslie Babonis* |
 |                         | Manuel Michaca: “Visualizing the expression of Alr1 in *Hydractinia symbiolongicarpus*” (p. 44)<br/> <br/>Anush Kosakyan: “Parasitic strategies in Cnidaria from omics perspective. Case study myxozoan parasite *Sphaerspora molnari*” (p. 45)<br/> <br/>Bruno Gideon Bergheim: “Extracellular matrix dynamics during the life history of *Nematostella vectensis*” (p. 46) <br/> <br/>Bert Hobmayer: “A *Hydra* Claudin cell-cell contact protein is involved in epithelial tissue dynamics, regeneration, and osmoregulation”(p. 47) |
-| 2:30 pm          | Coffee Break                                                 |
+| 2:30 pm          | ☕️ Coffee Break                                                 |
 | 3:00 pm          | **Session 9: Cell Biology II** <br/>*Session Chair: Anush Kosakyan* |
 |                         | Marion Lechable: “Evolutionary dynamics of the stem cell factor Myc and functional conservation of the unique *Hydra* Myc3 protein” (p. 48)<br/> <br/>Maria Valadez Ingersoll: “Interactions between symbiosis, innate immunity, and nutrition” in cnidarians” (p. 49)<br/> <br/>Helen Horkan: “*Hydractinia* Genome stability” (p. 50)<br/> <br/>Tsuyoshi Momose: “Origin of metazoan and origin of jellyfish; genetic and cell-biology approaches.” (p. 51) |
-| 4:15 pm          | Coffee Break                                                 |
+| 4:15 pm          | ☕️ Coffee Break                                                 |
 | 4:45 pm          | **Lightning Talks**                                          |
 |                         | Ndotimi Apulu,  <br/>Yamaly Barragan,  <br/>Wiebke Ehrlich,  <br/>Elizabeth Lee,  <br/>Hannah Morris Little,  <br/>Jingwei Song,  <br/> Amanda Yeo |
 | 5:30 pm          | **Poster Session 2**                                         |
 |                         | 2 - Ndotimi Apulu (p. 69) <br/>4 - Yamaly Barragan (p. 71) <br/>6 - Charlotte Benedict (p. 73) <br/>8 - Craig Ciampa (p. 75) <br/>10 - Wiebke Ehrlich (p. 77) <br/>12 - Addie Harrison (p. 79) <br/>14 - Dhiraj Jain (p. 81) <br/>16 - Hannah Justin (p. 83) <br/>18 - Elizabeth Lee (p. 85) <br/>20 - Kamille Maningding (p. 87) <br/>22 - Hannah Morse Little (p. 89) <br/>24 - Isabel Pen (p. 91) <br/>26 - Auston Rutledge (p. 93) <br/>28 - Jingwei Song (p. 95) <br/>30 - Aliyah True (p. 97) <br/>32 - Erick White (p. 99) <br/>34 - Amanda Yeo (p. 101) <br/>36 - Julia Baranyk (p. 34) <br/>38 - Jack Cazet (p. 103) <br/>40 - Abby Primack (p. 28) |
 | 7:30 pm          | Dinner with Cash Bar (Alumni Center)                         |
-| 9:30 pm                 | Know About Each Other in the Bar<br/>(Downtown Davis on G Street) |
+| 9:30 pm                 | 🍻 Know About Each Other in the Bar<br/>(Downtown Davis on G Street) |
 
 ### Saturday, September 10
 
@@ -80,20 +80,20 @@ permalink: /cnidofest-2022/program
 | 8:00 am             | Light Continental Breakfast                                  |
 | 8:45 am            | **Keynote**<br/>                                             |
 |                            | Mansi Srivastava: “Regeneration and development: the acoelomorph perspective” (p. 52) |
-| 10:00 am           | Coffee Break                                                 |
+| 10:00 am           | ☕️ Coffee Break                                                 |
 | 10:30 pm           | **Session 10: Development II**<br/>*Session Chair: Chiara Sinigaglia* |
 |                            | Paula Miramon-Puertolas: “A post-larval stem-like cell population contributes to germinal and somatic lineages in the sea anemone *Nematostella vectensis*” (p. 53) <br/><br/>Fredrik Hugosson: “Functional characterization of canonical Wnt receptors and ligands required for oral-aboral patterning in *Nematostella vectensis*” (p. 54)<br/><br/>Keith Sabin: “An FGF activity gradient signals through a cnidarian paired-like homeodomain gene to direct apical sensory organ development in *Nematostella vectensis*” (p. 55)<br/><br/>Kerstin Ohler: “FGF signaling in the freshwater polyp *Hydra*” (p. 56)<br/><br/>Masha Brooun: “The Hippo pathway and *Hydra* morphogenesis.” (p. 57) |
 | 12:00 pm            | Box Lunch                                                    |
-| 1:15 pm             | **Session 11: Evo Devo II**<br/>*Session Chair: Nakanishi Nagyasu* |
+| 1:15 pm             | **Session 11: Evo Devo II**<br/>*Session Chair: Nagayasu Nakanishi* |
 |                            | Lucas Leclére: “Genomic consequences of the loss of the polyp stage in the *scyphozoan Pelagia*” (p. 58)<br/><br/>Maciej Manko: “Origins of individuality in colonial siphonophores” (p. 59)<br/><br/>Mathew Travert: “Coevolution of the Tlx homeobox gene with medusa development (Cnidaria: Medusozoa)” (p. 60)<br/><br/>Patrick Steinmetz: “Yolk formation in a sea anemone provides insights into the evolution of animal nutrient transport” (p. 61) |
-| 2:30 pm             | Coffee Break                                                 |
+| 2:30 pm             | ☕️ Coffee Break                                                 |
 | 3:00 pm             | **Session 12: Regeneration**<br/>*Session Chair: Christy Schnitzler* |
 |                            | Anupama Hemalatha, Invited Technology Talk: “Live-imaging metabolic states in skin stem cells to reveal adaptations to oncogenic mutations” (p. 62) <br/><br/>Ben Cox: “Progenitor cell invasion during *Hydra vulgaris* head Regeneration” (p. 63) <br/><br/>Sosuke Fujita: “Distinct stem-like cell populations coordinate tissue elon-gation and regeneration in *Cladonema* medusa tentacles” (p. 64)<br/><br/>Sergio Campos: “Characterizing defects in Hydra oligactis foot Regeneration” (p. 65)<br/><br/>Chiara Sinigaglia: “To regenerate or not to regenerate? Towards an integrative model for the recovery of shapes in damaged *Clytia medusae*” (p. 66)<br/><br/>Miguel Salinas-Saavedra: “Senescence-induced cellular reprogramming drives whole-body regeneration” (p. 67) |
-| 4:45 pm             | Group Photo                                                  |
-| 5:15 pm             | Free Time                                                    |
-| 7:30 pm            | Dinner with Cash Bar (Alumni Center)                         |
+| 4:45 pm             | 📸 Group Photo                                                  |
+| 5:15 pm             | 🏊‍♀️ Free Time 🥾🌲📕                                                   |
+| 7:30 pm            | 🍽 Dinner with Cash Bar (Alumni Center)                         |
 | 8:30 pm                    | Awards Ceremony                                              |
-| 10:00 pm                   | Know About Each Other in the Bar (Downtown Davis on G Street) |
+| 10:00 pm                   | 🍻 Know About Each Other in the Bar (Downtown Davis on G Street) |
 
 
 
