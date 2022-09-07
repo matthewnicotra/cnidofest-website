@@ -89,11 +89,11 @@ permalink: /cnidofest-2022/program
 | 2:30 pm             | ☕️ Coffee Break                                                 |
 | 3:00 pm             | **Session 12: Regeneration**<br/>*Session Chair: Christy Schnitzler* |
 |                            | Anupama Hemalatha, Invited Technology Talk: “Live-imaging metabolic states in skin stem cells to reveal adaptations to oncogenic mutations” (p. 62) <br/><br/>Ben Cox: “Progenitor cell invasion during *Hydra vulgaris* head Regeneration” (p. 63) <br/><br/>Sosuke Fujita: “Distinct stem-like cell populations coordinate tissue elon-gation and regeneration in *Cladonema* medusa tentacles” (p. 64)<br/><br/>Sergio Campos: “Characterizing defects in Hydra oligactis foot Regeneration” (p. 65)<br/><br/>Chiara Sinigaglia: “To regenerate or not to regenerate? Towards an integrative model for the recovery of shapes in damaged *Clytia medusae*” (p. 66)<br/><br/>Miguel Salinas-Saavedra: “Senescence-induced cellular reprogramming drives whole-body regeneration” (p. 67) |
-| 4:45 pm             | 📸 Group Photo                                                  |
-| 5:15 pm             | 🏊‍♀️ Free Time 🥾🌲📕                                                   |
-| 7:30 pm            | 🍽 Dinner with Cash Bar (Alumni Center)                         |
-| 8:30 pm                    | 🏆 Awards Ceremony                                              |
-| 10:00 pm                   | 🍻 Know About Each Other in the Bar (Downtown Davis on G Street) |
+| 4:45 pm            | 🏆 Awards Ceremony & Meeting Wrap Up                             |
+| 5:15 pm            | 📸 Group Photo                                                   |
+| 5:45 pm            | 🏊‍♀️ Free Time 🥾 🌲 📕                                             |
+| 7:30 pm            | 🍽 Dinner with Cash Bar (Alumni Center)                          |
+| 10:00 pm           | 🍻 Know About Each Other in the Bar (Downtown Davis on G Street) |
 
 
 
