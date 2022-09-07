@@ -5,6 +5,7 @@ permalink: /cnidofest-2022/program
 ---
 
 
+<span style= "color:red">**All events except dinner are at the UC Davis Convention Center**</span>
 
 - table of contents
 {:toc}
@@ -16,13 +17,12 @@ permalink: /cnidofest-2022/program
 ### Wednesday, September 7
 
 | Time           | Event                                                        |
-| -------------- | ------------------------------------------------------------ |
-| 6:30 pm    | Registration and Check-in                                    |
-| 7:30 pm    | Welcome                                                      |
-| 7:45 pm    | **Session 1: Genomics**<br>*Session Chair: James Gahan*      |
+| -------------- | -------------------------------------------------------------|
+| 6:30 pm        | Registration and Check-in (UC Davis Conference Center)       |
+| 7:30 pm        | Welcome                                                      |
+| 7:45 pm        | **Session 1: Genomics**<br>*Session Chair: James Gahan*      |
 |                | Jack Cazet: “New *Hydra* genomes reveal conserved principles of hydrozoan transcriptional regulation” (p. 16)<br/><br/>Sally Chang: “Insights from the draft genome assembly for the hydrozoan *Podocoryna carnea*: Just the tip of the tentacle” (p. 17)<br/><br/>Tetsuo Kon: “Genomic divergence and dynamics of the three stem cell lineages in *Hydra*” (p. 18)<br/><br/>Karly Higgins-Poling: “Assessing evolutionary history of symbiotic Scyphozoa: A case study, *Mastigias papua* in the marine lakes of Palau, and beyond” (p. 19) |
 | 9:00 pm        | 🍻 Know About Each Other in the Bar<br/>(Downtown Davis on G Street) |
-
 
 
 ### Thursday, September 8 
