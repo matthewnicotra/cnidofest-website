@@ -9,9 +9,9 @@ layout: page
 
 **PROGRAMS**  (updated September 7, 2022 at 9:13 AM)
 
-- [Full Program with Abstracts - Google Doc](https://docs.google.com/document/d/1V7y29du7ATEwba0SMjrcopMSTVDNgpGMaRhel5MxmuE/edit?usp=sharing)
+- [Full Program - Google Doc](https://docs.google.com/document/d/1V7y29du7ATEwba0SMjrcopMSTVDNgpGMaRhel5MxmuE/edit?usp=sharing)
 
-- [Full Program with Abstracts - WEB FRIENDLY](/cnidofest-2022/program)
+- [Full Program - <span style= "color:red">WEB FRIENDLY</span>](/cnidofest-2022/program)
 
 
 [Twitter **#cnidofest2022** Mentions](https://twitter.com/hashtag/cnidofest2022?src=hashtag_click)  
@@ -51,9 +51,11 @@ We welcome abstracts from any scientist using a cnidarian as a model organism to
 
 
 
-### Program and Schedule <span style= "color:red"> (Posted August 13, 2022)</span>
+### Program and Schedule
 
 The [Full program](https://docs.google.com/document/d/1V7y29du7ATEwba0SMjrcopMSTVDNgpGMaRhel5MxmuE/edit?usp=sharing){:target="_blank"} is now available. 
+
+[Web Friendly Version](/cnidofest-2022/program)
 
 ### [Keynote and Technology Speakers](/cnidofest-2022/confirmed-speakers)
 
