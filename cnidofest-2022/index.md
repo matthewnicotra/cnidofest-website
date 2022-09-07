@@ -7,7 +7,9 @@ layout: page
 
 ## Useful Links During the Meeting
 
-[Full Program with Abstracts - Google Doc](https://docs.google.com/document/d/1V7y29du7ATEwba0SMjrcopMSTVDNgpGMaRhel5MxmuE/edit?usp=sharing)  
+**PROGRAMS**  (updated September 7, 2022 at 9:13 AM)
+
+[Full Program with Abstracts - Google Doc](https://docs.google.com/document/d/1V7y29du7ATEwba0SMjrcopMSTVDNgpGMaRhel5MxmuE/edit?usp=sharing)
 
 [Full Program with Abstracts - WEB FRIENDLY](/cnidofest-2022/program)
 
