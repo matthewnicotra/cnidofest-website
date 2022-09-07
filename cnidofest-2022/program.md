@@ -83,7 +83,7 @@ permalink: /cnidofest-2022/program
 | 10:00 am           | ☕️ Coffee Break                                                 |
 | 10:30 pm           | **Session 10: Development II**<br/>*Session Chair: Chiara Sinigaglia* |
 |                            | Paula Miramon-Puertolas: “A post-larval stem-like cell population contributes to germinal and somatic lineages in the sea anemone *Nematostella vectensis*” (p. 53) <br/><br/>Fredrik Hugosson: “Functional characterization of canonical Wnt receptors and ligands required for oral-aboral patterning in *Nematostella vectensis*” (p. 54)<br/><br/>Keith Sabin: “An FGF activity gradient signals through a cnidarian paired-like homeodomain gene to direct apical sensory organ development in *Nematostella vectensis*” (p. 55)<br/><br/>Kerstin Ohler: “FGF signaling in the freshwater polyp *Hydra*” (p. 56)<br/><br/>Masha Brooun: “The Hippo pathway and *Hydra* morphogenesis.” (p. 57) |
-| 12:00 pm            | Box Lunch                                                    |
+| 12:00 pm            | 🥪 Box Lunch                                                    |
 | 1:15 pm             | **Session 11: Evo Devo II**<br/>*Session Chair: Nagayasu Nakanishi* |
 |                            | Lucas Leclére: “Genomic consequences of the loss of the polyp stage in the *scyphozoan Pelagia*” (p. 58)<br/><br/>Maciej Manko: “Origins of individuality in colonial siphonophores” (p. 59)<br/><br/>Mathew Travert: “Coevolution of the Tlx homeobox gene with medusa development (Cnidaria: Medusozoa)” (p. 60)<br/><br/>Patrick Steinmetz: “Yolk formation in a sea anemone provides insights into the evolution of animal nutrient transport” (p. 61) |
 | 2:30 pm             | ☕️ Coffee Break                                                 |
@@ -92,7 +92,7 @@ permalink: /cnidofest-2022/program
 | 4:45 pm             | 📸 Group Photo                                                  |
 | 5:15 pm             | 🏊‍♀️ Free Time 🥾🌲📕                                                   |
 | 7:30 pm            | 🍽 Dinner with Cash Bar (Alumni Center)                         |
-| 8:30 pm                    | Awards Ceremony                                              |
+| 8:30 pm                    | 🏆 Awards Ceremony                                              |
 | 10:00 pm                   | 🍻 Know About Each Other in the Bar (Downtown Davis on G Street) |
 
 
