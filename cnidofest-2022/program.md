@@ -67,13 +67,13 @@ permalink: /cnidofest-2022/program
 |                         | Marion Lechable: “Evolutionary dynamics of the stem cell factor Myc and functional conservation of the unique *Hydra* Myc3 protein” (p. 48)<br/> <br/>Maria Valadez Ingersoll: “Interactions between symbiosis, innate immunity, and nutrition” in cnidarians” (p. 49)<br/> <br/>Helen Horkan: “*Hydractinia* Genome stability” (p. 50)<br/> <br/>Tsuyoshi Momose: “Origin of metazoan and origin of jellyfish; genetic and cell-biology approaches.” (p. 51) |
 | 4:15 pm          | ☕️ Coffee Break                                                 |
 | 4:45 pm          | 🌩 **Lightning Talks**                                          |
-|                         | Ndotimi Apulu,  <br/>Yamaly Barragan,  <br/>Wiebke Ehrlich,  <br/>Dhiraj Jain, <br/>Elizabeth Lee,  <br/>Hannah Morris Little,  <br/>Jingwei Song,  <br/> Amanda Yeo |
+|                         | Ndotimi Apulu,  <br/>Yamaly Barragan,  <br/>Wiebke Ehrlich,  <br/>Dhiraj Jain, <br/>Elizabeth Lee,  <br/>Hannah Morris Little,  <br/>Isabel Pen, <br/>Jingwei Song,  <br/> Amanda Yeo |
 | 5:30 pm          | **Poster Session 2**                                         |
 |                         | 2 - Ndotimi Apulu (p. 69) <br/>4 - Yamaly Barragan (p. 71) <br/>6 - Charlotte Benedict (p. 73) <br/>8 - Craig Ciampa (p. 75) <br/>10 - Wiebke Ehrlich (p. 77) <br/>12 - Addie Harrison (p. 79) <br/>14 - Dhiraj Jain (p. 81) <br/>16 - Hannah Justin (p. 83) <br/>18 - Elizabeth Lee (p. 85) <br/>20 - Kamille Maningding (p. 87) <br/>22 - Hannah Morse Little (p. 89) <br/>24 - Isabel Pen (p. 91) <br/>26 - Auston Rutledge (p. 93) <br/>28 - Jingwei Song (p. 95) <br/>30 - Aliyah True (p. 97) <br/>32 - Erick White (p. 99) <br/>34 - Amanda Yeo (p. 101) <br/>36 - Julia Baranyk (p. 34) <br/>38 - Jack Cazet (p. 103) <br/>40 - Abby Primack (p. 28) |
 | 7:30 pm          | Dinner with Cash Bar (Alumni Center)                         |
 | 9:30 pm                 | 🍻 Know About Each Other in the Bar<br/>(Downtown Davis on G Street) |
 
-### Saturday, September 10
+### Saturday, September 10  
 
 | Time |Event                                                              |
 | -------------------------- | ------------------------------------------------------------ |
