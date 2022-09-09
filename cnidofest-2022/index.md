@@ -7,7 +7,7 @@ layout: page
 
 ## Useful Links During the Meeting
 
-**PROGRAMS**  (updated September 8, 2022 at 1:25 PM)
+**PROGRAMS**  (updated September 9, 2022 at 9:05 PM)
 
 - [Full Program - Google Doc](https://docs.google.com/document/d/1V7y29du7ATEwba0SMjrcopMSTVDNgpGMaRhel5MxmuE/edit?usp=sharing)
 
