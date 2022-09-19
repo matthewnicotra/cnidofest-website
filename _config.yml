@@ -37,8 +37,6 @@ plugins:
 # Hydejack specific formatting for the sidebar menue
 menu:
 
-  - title: "Cnidofest 2022"
-    url:   /cnidofest-2022/
   - title: "Zoom Seminars"
     url: /zoom-seminars/
   - title: "Past Meetings"

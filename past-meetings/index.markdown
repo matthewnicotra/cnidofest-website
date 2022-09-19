@@ -10,7 +10,9 @@ permalink: /past-meetings/
 
 
 ## [Cnidofest 2018](/past-meetings/cnidofest-2018)
-<img src="/assets/images/Cnidofest2018_groupPic.jpg" alt="Group Photo" width="300"/>
+<img src="/assets/images/Cnidofest2018_groupPic.jpg" alt="Group Photo" width="400px"/>
 
+## [Cnidofest 2022](/past-meetings/cnidofest-2022)
+<img src="/assets/images/Cnidofest-2022-groupphoto.jpg" alt = "Group Photo" width = "600px"/>
 
 
